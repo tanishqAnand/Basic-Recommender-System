@@ -1,0 +1,86 @@
+Food ID,Food Name,Rating,User Region
+1,Poha,3,North
+2,Kadhai Paneer,4,North
+3,Mix Veg,4,North
+4,Aloo Paratha,2,North
+5,Gobhi Paratha,4,North
+6,Rajma Curry,3,North
+7,Dal Arhar,3,North
+8,Masala Dosa,5,North
+9,Plain Dosa,3,North
+10,Paneer Tawa Tikka,5,North
+11,Butter Chicken,1,North
+12,Aloo Gobhi,5,North
+13,Dal Makhani,5,North
+14, Bhindi Masala,3,North
+15,Malai Kofta,2,North
+16, Kachori,5,North
+17,Dum Aaloo,1,North
+18,Dhokla,4,North
+19,Chole Bhature,2,North
+20,Chicken Tikka Masala,3,North
+21,Pav Bhaji,2,North
+22,Kadai Paneer,4,North
+23,Veg Biryani,2,North
+24,Chicken Biryani,5,North
+25,Mutton Biryani,2,North
+26,Tandoori Chicken,5,North
+27,Rava Dosa,2,South
+28,Raw Banana Curry,1,South
+29,Sambar rice,2,South
+30,Beans,2,South
+31,Uttapam,2,South
+32,Idli,3,South
+33,Vada,5,South
+34,Upma,1,South
+35,Appam,5,South
+36,Rasam,5,South
+37,Lemon Rice,1,South
+38,Fish Molee,5,South
+39,Kerala Prawn Curry,2,South
+40,Chicken Curry,1,South
+41,Chicken Chettinad,5,South
+42,Chicken 65,5,South
+43,Curd Rice,1,South
+44,Beetroot Poriyal,4,South
+45,Dosakaya Pappu,1,South
+46,Ambot tik,2,South
+47,Malabar fish curry,3,South
+48,Tandoori pomfret,2,South
+49,Karimeen pollichathu,4,South
+50,Prawn Koliwada,1,South
+51,Litti Chokha,3,East
+52,Machcher Jhol,3,East
+53,Dalma,4,East
+54,Momos,1,East
+55,Thukpa,3,East
+56,Manipuri Kelli Chana,2,East
+57,Jalfrezi,3,East
+58,Bihari kebab,5,East
+59,Veg chowmein,3,East
+60,Raw banana gravy sabji,5,East
+61,Aloo Gazar Matar sabji,2,East
+62,"Bandha Kobi Alu Curry,",2,East
+63,Veg Manchurian,4,East
+64,Chicken Manchurian,5,East
+65,Puri Sabzi,4,East
+66,Malai Kofta,1,East
+67,Aloo Dum,1,East
+68,Sev khamani,1,West
+69,Masoor Dal,2,West
+70,Suraj chana,3,West
+71, Bhaigan bharta,4,West
+72, Chana masala,5,West
+73,Egg Curry,2,West
+74,Lauki Kofta,4,West
+75,Khaman Dhokla,2,West
+76,Dabeli,1,West
+77,Batata vada,4,West
+78,Misal pav,2,West
+79,Bhelpuri,3,West
+80,Vada pav,3,West
+81,Zunka Bhakri,3,West
+82,Bombay Duck,3,West
+83,Methi ka Thepla,4,West
+84,Gatte Ki Sabzi ,3,West
+85,Laal Maas,2,West
